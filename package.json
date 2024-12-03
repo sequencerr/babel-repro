@@ -1,0 +1,6 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "@gfx/zopfli": "^1.0.15"
+  }
+}
